@@ -2,7 +2,7 @@ import React from 'react';
 import CumulativeBalance from './CumulativeBalance';
 import YearList from './YearList';
 import api from '../api/api';
-// import testData from '../testData/transactionsUser1.json';
+//import testData from '../exampleData/transactions.json';
 
 class App extends React.Component {
 
